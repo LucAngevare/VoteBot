@@ -6,9 +6,9 @@ var number;
 const JSON = require('circular-json');
 
 pastebin = new PastebinAPI({
-  'api_dev_key': "fe3ba0035a0afe71ea76cc5868564192",
-  'api_user_name': "VoteBot2069",
-  'api_user_password': Buffer.from("TWF0cml4MjAwNQ==", 'base64')
+  'api_dev_key': "nope",
+  'api_user_name': "sendbobs",
+  'api_user_password': "i can do vegana too"
 });
 
 pastebin
@@ -71,4 +71,4 @@ client.on('message', message => {
   }
 });
 
-client.login('NTY4NDg2MzkwODcwOTY2Mjk0.XilNTA.s_wW0_akc4n6Md6MYEHmhLxkhcw');
+client.login('Fuck nudes send me a reason to live');
